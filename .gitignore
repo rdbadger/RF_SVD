@@ -2,6 +2,5 @@
 temp/
 clean_speech/
 saved/
-UDV_matrix/
 *.sigmf-data
 *.sigmf-meta
