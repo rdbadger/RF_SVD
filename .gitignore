@@ -2,5 +2,9 @@
 temp/
 clean_speech/
 saved/
+ptt_2_10_svd_1k_fft/
+ptt_2_10_svd_1024_fft/
+dmr_5_10_svd_1024_fft/
+dmr_5_10_svd_1k_fft/
 *.sigmf-data
 *.sigmf-meta
